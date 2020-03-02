@@ -1,1 +1,3 @@
 # mta-server
+sucks
+hard
